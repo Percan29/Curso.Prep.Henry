@@ -1,0 +1,12 @@
+Explicaciones:
+
+BLUCLE FOR: Se utilizara para repetir una instruccion una cantidad determinada de veces. Este BLUCLE se utiliza de manera determinada ( cuando conocemos las ocasiones que se repetira)
+
+OPERADORES LOGICOS DE COMPARACION: 
+
+AND este operador evalua de izquierda a derecha, siempre siempre regresara el primer valor falso que encuentre, Nota: si ambos valores son TRUE se devolvera siempre el primer valor del ultimo operador...
+
+OR tal operador suele siempre usarse con BOOLEAN valores. evaluara ambos valores y con uno que encuente verdaero, siempre devolvera verdadero, si ambos son falso pues sera falso...
+
+NOT este operador no realiza comparaciones como los pasados operadores y solo opera en un solo evento. Lo que hace es devolver el valor contrario de un boolean que se saca o se obtiene en el ultimo paso
+

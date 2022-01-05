@@ -1,0 +1,11 @@
+¿ Que es una variable ? Una variable es un contenedor que dentro de el tiene un valor 
+
+¿Que es un string ? Es una cadena de texto que tiene que ir dentro de comillas simples o comillas dobles
+
+¿ Que es una función ? Es una instrucción que tiene que hacer una tarea como puede ser una operacion de cualquier tipo, además tiene 
+un argumento y despues de realizar la tarea te regresa el resultado por medio de un return o retorno.
+
+¿ Que es un condicional o declaracion if ? Este se utiliza para tomar decisiones por medio de una operación lógica
+que de como resultado un FALSE O UN TRUE y con eso se permitirá ejecutar un resultado.
+
+¿ Que son los valores Booleanos ? Este tipo de dato te ayuda para ejecutar si una operación tiene una respuesta TRUE o FALSE
